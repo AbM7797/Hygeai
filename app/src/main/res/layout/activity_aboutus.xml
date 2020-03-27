@@ -13,18 +13,16 @@
         android:text="This project was Developed by NATEG ENIT student chapter members Sami Ben Ali and Achref Benmohamed  as an innitiative to help defend against COVID19 virus, this project is completely open source and we welcome any contributions or suggestions , please feel free to contact us at : \n  samibenali.electrical@gmail.com \nor at : \n achref.benmohammed97@gmail.com"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/imageView9"
-        app:layout_constraintHorizontal_bias="0.347"
         app:layout_constraintStart_toStartOf="@+id/imageView9"
         app:layout_constraintTop_toBottomOf="@+id/imageView9"
-        app:layout_constraintVertical_bias="0.109" />
+        app:layout_constraintVertical_bias="0.154" />
 
     <ImageView
         android:id="@+id/imageView9"
-        android:layout_width="wrap_content"
-        android:layout_height="173dp"
+        android:layout_width="223dp"
+        android:layout_height="146dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.552"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.232"
