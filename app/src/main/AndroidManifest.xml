@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Menu"></activity>
+        <activity android:name=".howitworks"></activity>
+        <activity android:name=".aboutus" />
+        <activity android:name=".Menu" />
         <activity android:name=".ConfigStep5" />
         <activity android:name=".ConfigStep4" />
         <activity android:name=".ConfigStep3" />

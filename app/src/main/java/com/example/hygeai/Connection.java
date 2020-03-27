@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+
 public class Connection extends AppCompatActivity {
 
     @Override
@@ -15,6 +16,8 @@ public class Connection extends AppCompatActivity {
     }
     public void goToConfig(View v){
         Intent config = new Intent(this,Configuration.class);
+
+
         startActivity(config);
     }
 }
