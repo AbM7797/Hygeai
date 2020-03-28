@@ -10,7 +10,7 @@
         android:id="@+id/textView13"
         android:layout_width="273dp"
         android:layout_height="183dp"
-        android:text="This project was Developed by NATEG ENIT student chapter members Sami Ben Ali and Achref Benmohamed  as an innitiative to help defend against COVID19 virus, this project is completely open source and we welcome any contributions or suggestions , please feel free to contact us at : \n  samibenali.electrical@gmail.com \nor at : \n achref.benmohammed97@gmail.com"
+        android:text="This project was Developed by NATEG ENIT student chapter projects manager  Sami Ben Ali and member Achref Benmohamed  as an innitiative to help defend against COVID-19 virus, this project is completely open source and we welcome any contributions or suggestions , please feel free to contact us at : \n  samibenali.electrical@gmail.com \nor at : \n achref.benmohammed97@gmail.com"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/imageView9"
         app:layout_constraintStart_toStartOf="@+id/imageView9"
@@ -26,5 +26,5 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.232"
-        app:srcCompat="@drawable/hygeai" />
+        app:srcCompat="@drawable/enit" />
 </androidx.constraintlayout.widget.ConstraintLayout>
